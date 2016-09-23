@@ -1,4 +1,4 @@
-# -loading-
+# loading弹窗
 仿微信提交信息弹出的loading，提交成功或失败后进行提示及动画隐藏loadbox；原生js，没有依赖其他库，只有2k
 #用法
 
