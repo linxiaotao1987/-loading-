@@ -10,7 +10,7 @@
 
 
 在文件中引入js，new一个出来的同时会生成弹窗，z-index是19，要注意；
-关闭的时候给调用他的hide（）方法，参数传你先呈现给用户的信息。调用后执行渐隐动画，动画结束后loading块被设置为display：none；
+关闭的时候给调用他的hide（）方法，参数传你想呈现给用户的信息。调用后执行渐隐动画，动画结束后loading块被设置为display：none；
 ```
 <script src="javascripts/ajaxloadbox.js"></script>
 <script>
